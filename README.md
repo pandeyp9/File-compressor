@@ -16,8 +16,3 @@
 
 * Website is Responsive
 
-* Link at the bottom of the page links to an Info page that provides more information about Huffman Coding
-
-![info1](screenshots/infoss1.png)
-
-![info2](screenshots/infoss2.png)
